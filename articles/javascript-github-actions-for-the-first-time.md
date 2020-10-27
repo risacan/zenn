@@ -1,5 +1,5 @@
 ---
-title: "初めて GitHub Actions (with Java Script) を作るウォークスルー"
+title: "初めて GitHub Actions (with JavaScript) を作るウォークスルー"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["GitHubActions"]
