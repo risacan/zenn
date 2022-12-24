@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["buildspace"]
 published: true
 ---
+
 これは[Web3 Devのカレンダー \| Advent Calendar 2022 \- Qiita](https://qiita.com/advent-calendar/2022/web3-dev)11日目の記事です。今日が何日かって？24日です。Better than never!
 
 私はWeb3開発の経験がないので、チュートリアルでとにかく何かを作ってみることにしました。[buildspace](https://buildspace.so/)はブロックチェーンを使ったさまざまなチュートリアルを無料で提供しています。ありがたい。今日は __Intro to Solidity: Ship an Ethereum dApp__ というチュートリアルをやってみる。ちなみに2週間かかると書いてある。今から（16:55）どこまでできるか見ものです。
