@@ -129,7 +129,7 @@ Contract deployed to: 0x5FbDB2315678afecb367f032d93F642f64180aa3
 
 送られたWaveを保存(store)しておくコードと、Waveの数を取得するためのfunctionを記述します。
 
-コードの詳細はbuildspace](https://buildspace.so/)を確認してください。
+コードの詳細は[buildspace](https://buildspace.so/)を確認してください。
 
 `msg.sender` というコードがでてきます。ここには、functionを呼んだ人のウォレットアドレスが入ります。
 
@@ -166,7 +166,7 @@ npx hardhat node
 このネットワークに新しくブロックを作成して、コードをデプロイします。わーい！
 
 `deploy.js` ファイルを新規作成します。
-コードの詳細はbuildspace](https://buildspace.so/)を確認してください。
+コードの詳細は[buildspace](https://buildspace.so/)を確認してください。
 
 `deploy.js` スクリプトを使って、ローカルのネットワークにデプロイします！
 
