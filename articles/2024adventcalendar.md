@@ -6,6 +6,8 @@ topics: ["クリエイティブコーディング"]
 published: true
 ---
 
+🎄 この記事は、[SmartHR Advent Calendar 2024](https://qiita.com/advent-calendar/2024/smarthr)シリーズ1の6日目の記事です。
+
 **動機**
 
 以前からクリエイティブコーディングに興味があり、  [chobishiba](https://note.com/chobishibaq3) さんの作品をみて素敵だなあとため息をついていました。
